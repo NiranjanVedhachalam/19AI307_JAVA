@@ -19,8 +19,8 @@ To Create a java program to print the sum of two number using getter and setter 
  ```
 /*
 Program to implement a Getter and Setter using Java
-Developed by: Kavinraja D
-RegisterNumber: 212222240047
+Developed by: Niranjan V
+RegisterNumber: 21222224110042
 */
 ```
 
