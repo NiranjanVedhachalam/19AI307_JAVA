@@ -18,8 +18,8 @@ To Create a java program to display the value of volume of cylinder get the radi
  ```
 /*
 Program to implement a tightly encapsulated class using Java
-Developed by: Kavinraja D
-RegisterNumber: 212222240047
+Developed by: Niranjan V
+RegisterNumber: 21222224110042
 */
 ```
 
